@@ -1,6 +1,6 @@
 return {
     framework = 'QBOX', -- QBOX or ESX
-    language = 'EN',
+    language = 'TH',
     interaction = 'ox_target', -- ox_target or sleepless_interact
     useLevels = true,
     globalLevel = false, -- if true, the level is shared across black markets
